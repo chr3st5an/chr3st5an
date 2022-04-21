@@ -39,7 +39,7 @@ I.wave(github.reading.this.YOU)
 
 </br>
 
-<center>
+<div style="text-align:center">
 
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chr3st5an)
@@ -59,4 +59,4 @@ I.wave(github.reading.this.YOU)
 
 [![LOVE](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://127.0.0.1:57333)
 
-</center>
+</div>
