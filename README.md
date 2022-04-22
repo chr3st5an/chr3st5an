@@ -41,7 +41,7 @@ I.wave(github.reading.this.YOU)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact)
 
 </br>
 
@@ -49,7 +49,7 @@ I.wave(github.reading.this.YOU)
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=tracer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=tracer)](https://github.com/chr3st5an/tracer)
 
 </br>
 
@@ -57,7 +57,7 @@ I.wave(github.reading.this.YOU)
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chr3st5an&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chr3st5an&layout=compact)
 
 # Tools
 
