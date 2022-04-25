@@ -50,6 +50,7 @@ I.wave(github.reading.this.YOU)
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=tracer)](https://github.com/chr3st5an/tracer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=suspicious-link)](https://github.com/chr3st5an/suspicious-link)
 
 </br>
 
