@@ -57,7 +57,7 @@ I.wave(github.reading.this.YOU)
 
 ---
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chr3st5an&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chr3st5an)
 
 # Tools
 
