@@ -33,7 +33,7 @@ I.wave(github.reading.this.YOU)
 
 </br>
 
-# Languages
+# 🐍 Languages
 
 ---
 
@@ -45,7 +45,7 @@ I.wave(github.reading.this.YOU)
 
 </br>
 
-# Projects
+# 💻 Projects
 
 ---
 
@@ -54,13 +54,13 @@ I.wave(github.reading.this.YOU)
 
 </br>
 
-# Activity
+# 🔋 Activity
 
 ---
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chr3st5an&theme=gradient)
 
-# Tools
+# 🔧 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -70,3 +70,7 @@ I.wave(github.reading.this.YOU)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+# 😂 Here Take A Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
