@@ -41,7 +41,7 @@ I.wave(github.reading.this.YOU)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact&theme=gradient)
 
 </br>
 
