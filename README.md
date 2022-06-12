@@ -51,6 +51,7 @@ I.wave(github.reading.this.YOU)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=tracer)](https://github.com/chr3st5an/tracer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=suspicious-link)](https://github.com/chr3st5an/suspicious-link)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chr3st5an&repo=Google-Dorking)](https://github.com/chr3st5an/Google-Dorking)
 
 </br>
 
@@ -68,9 +69,4 @@ I.wave(github.reading.this.YOU)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
-# 😂 Here Take A Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
