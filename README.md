@@ -43,10 +43,10 @@ I.wave(github.reading.this.YOU)
 <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="64"/>
 <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="64"/>
 <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=790b7611587ad7d4333859932b73823c39c37a85e3cf5871&rid=giphy.gif&ct=s" width="64">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact)
     
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact)
 
 </br>
 
@@ -78,6 +78,6 @@ I.wave(github.reading.this.YOU)
 
 <p align="center">
     
-<img style="border-radius:50%" src="https://media1.giphy.com/media/dvdcBNbAiNVT9Z0iwP/giphy.gif" width="256"/>
+<img src="https://media1.giphy.com/media/dvdcBNbAiNVT9Z0iwP/giphy.gif" width="256"/>
 
 </p>
