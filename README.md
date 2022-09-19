@@ -1,6 +1,10 @@
-<!-- If you are rading this, ... I luv you -->
+<!-- If you are reading this, ... I luv you -->
 
-![Header](./data/header.png)
+<img src="./data/header.png"
+     alt="Header"
+     width="100%"
+     height="auto"
+/>
 
 <a target="_blank" href="https://discord.com/users/502961623263084554">
     <img align="left"
@@ -39,7 +43,9 @@ print(sum(x)*y - y)
     <code>1</code>
 </details>
 
-## Languages
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source-Code-Pro&size=24&vCenter=true&pause=100&color=F7F7F7FF&width=435&height=30&lines=Languages" alt="Typing SVG"/>
 
 ---
 
@@ -51,7 +57,9 @@ print(sum(x)*y - y)
 </div>
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr3st5an&layout=compact&theme=nord"/>
 
-## Stats
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source-Code-Pro&size=24&vCenter=true&pause=100&color=F7F7F7FF&width=435&height=30&lines=Stats" alt="Typing SVG"/>
 
 ---
 
@@ -59,7 +67,9 @@ print(sum(x)*y - y)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=chr3st5an&theme=nord)
 
-## Tools
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source-Code-Pro&size=24&vCenter=true&pause=100&color=F7F7F7FF&width=435&height=30&lines=Tools" alt="Typing SVG"/>
 
 ---
 
