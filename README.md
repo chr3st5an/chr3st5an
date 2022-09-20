@@ -4,6 +4,7 @@
      alt="Header"
      width="100%"
      height="auto"
+     title="That's Me 🎉"
 />
 
 <a target="_blank" href="https://discord.com/users/502961623263084554">
@@ -12,6 +13,7 @@
          src="https://discord-readme-badge.vercel.app/api?id=502961623263084554"
          width="350"
          height="auto"
+         title="Discord Status"
     />
 </a>
 
@@ -75,39 +77,111 @@ print(sum(x)*y - y)
 
 <table>
     <th>
-        <img alt="Firefox" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="32"/>
+        <a href="https://www.mozilla.org/en-US/firefox">
+            <img alt="Firefox"
+                 src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg"
+                 width="32"
+                 title="Firefox"
+            />
+        </a>
     </th>
     <th>
-        <img alt="GIMP" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" width="32"/>
+        <a href="https://www.gimp.org/">
+            <img alt="GIMP"
+                 src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg"
+                 width="32"
+                 title="GIMP"
+            />
+        </a>
     </th>
     <th>
-        <img alt="Github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="32"/>
+        <a href="https://github.com">
+            <img alt="Github"
+                 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+                 width="32"
+                 title="Github"
+            />
+        </a>
     </th>
     <th>
-        <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="32"/>
+        <a href="https://www.mongodb.com/">
+            <img alt="MongoDB"
+                 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"
+                 width="32"
+                 title="MongoDB"
+            />
+        </a>
     </th>
     <th>
-        <img alt="Numpy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="32"/>
+        <a href="https://numpy.org/">
+            <img alt="Numpy"
+                 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
+                 width="32"
+                 title="Numpy"
+            />
+        </a>
     </th>
     <th>
-        <img alt="Selenium" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="32"/>
+        <a href="https://www.selenium.dev/">
+            <img alt="Selenium"
+                 src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"
+                 width="32"
+                 title="Selenium"
+            />
+        </a>
     </th>
     <th>
-        <img alt="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="32"/>
+        <a href="https://code.visualstudio.com/">
+            <img alt="vscode"
+                 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+                 width="32"
+                 title="VSCode"
+            />
+        </a>
     </th>
     <th>
-        <img alt="Pycharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="32"/>
+        <a href="https://www.jetbrains.com/pycharm/">
+            <img alt="Pycharm"
+                 src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
+                 width="32"
+                 title="Pycharm"
+            />
+        </a>
     </th>
     <th>
-        <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="32"/>
+        <a href="https://git-scm.com/">
+            <img alt="Git"
+                 src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
+                 width="32"
+                 title="Git"
+            />
+        </a>
     </th>
     <th>
-        <img alt="DigitalOcean" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" width="32"/>
+        <a href="https://www.digitalocean.com/?refcode=a39555079e5e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+            <img alt="DigitalOcean"
+                 src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"
+                 width="32"
+                 title="DigitalOcean"
+            />
+        </a>
     </th>
     <th>
-        <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="32"/>
+        <a href="https://jupyter.org/">
+            <img alt="Jupyter"
+                src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"
+                width="32"
+                title="Jupyter"
+            />
+        </a>
     </th>
     <th>
-        <img alt="GNU/Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="32"/>
+        <a href="https://zorin.com/os/">
+            <img alt="GNU/Linux"
+                src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+                width="32"
+                title="GNU/Linux"
+            />
+        </a>
     </th>
 </table>
